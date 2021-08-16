@@ -1,1 +1,4 @@
 *.bat
+.idea/
+.gitignore
+.
